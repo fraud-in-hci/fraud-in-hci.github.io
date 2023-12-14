@@ -1,99 +1,38 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Organizers"
+permalink: "/organizers/"
 layout: page
 ---
 
-## Installation
+## Aswati Panicker
+Aswati Panicker is a PhD student in Informatics at Indiana University Bloomington. Her research investigates how technology-mediated food interactions can support long-distance family relationships through scaffolding, experiential sharing, and support of role changes and transitions. Her work uses human-centered and participatory design approaches.
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+## Novia Nurain
+Novia Nurain has recently completed her doctoral degree in Informatics at Indiana University Bloomington and will be joining as a postdoctoral researcher at the University of Michigan’s School of Information. Her research lies at the intersection of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), and Aging, with a focus on supporting technology design of socio-technical systems that promote a holistic understanding of health. Methodologically, she adopts humanistic research approaches in HCI/CSCW (e,g., surveys, interviews, photo diaries, collaborative workshops, and field deployment) to ground her investigations and translate the findings into theoretical frameworks, design toolkits, and implications for designs.
 
-## Features
+## Zaidat Ibrahim
+Zaidat Ibrahim is a PhD student in Informatics at Indiana University Bloomington. Her research focuses on supporting women’s health journeys of faith-based populations. She leverages qualitative and quantitative HCI research methods in her work, utilizing the results to formulate design guidelines for initial prototypes of personal informatics systems for women’s health.
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## Chun-Han (Ariel) Wang
+Chun-Han (Ariel) Wang is a PhD student in Computational Media at the University of California, Santa Cruz. Her research interests are in social media and health. Previously a designer and a researcher, she is passionate about employing human-centered design methods in everyday healthcare.
 
-## Based on
+## Seung Wan Ha
+Seung Wan Ha is a Ph.D. Student in Computational Media at the University of California, Santa Cruz. His research explores how personal informatics can support individuals’ everyday activities and responses during life events. He utilizes qualitative Human-Computer Interaction (HCI) research methods in his work, suggesting design implications and frameworks for designing personal informatics tools.
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+## Elizabeth Kaziunas
+Elizabeth Kaziunas is an Assistant Professor in Informatics at Indiana University Bloomington. As an interpretivist researcher, she draws on ethnographic methods, social theory, and participatory design approaches to examine the social and organizational contexts of health information systems, lived experiences of health datafication, and social impacts of emerging technologies.
 
-## Installation (jekyll-remote-theme method)
+## Maria Wolters
+Maria Wolters is a Reader (Associate Professor) at the University of Edinburgh, UK, and leads the Social Computing research group at OFFIS Institute for Information Technology. She uses mixed methods to co-create technologies that improve people’s health and wellbeing. At OFFIS, she focuses on inclusive and transparent citizen participation in democratic processes.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+## Chia-Fang (Christina) Chung
+Chia-Fang (Christina) Chung is an Assistant Professor at the University of California, Santa Cruz. Christina’s research focuses on designing personal informatics to support healthy lifestyles, relationship building, and community empowerment. She uses a mix of participatory design approaches, system designs, and field evaluations to provide in-depth empirical understandings, rigorous theoretical reflections, and innovative design implications.
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+## Advisory Committee
+Kay Connelly
+Kay Connelly is an Associate Vice President of Research and Innovation at Michigan State University. Her own research is to design, develop, and evaluate mobile and pervasive technologies for health. Much of her work focuses on vulnerable populations on the wrong side of the digital and health divides.
 
-plugins:
-  - jekyll-remote-theme
-```
+## Katie Siek
+Katie Siek is a Professor of Informatics at Indiana University who investigates how to empower people outside of clinical environments to proactively manage their health. She is an elected member of the Computing Research Association Board and serves on the Council of the Computing Community Consortium.
 
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+Workshop at CHI 2024
