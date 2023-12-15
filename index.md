@@ -17,7 +17,7 @@ Outcomes of this workshop include working towards better guidelines, forming a c
 Honolulu, Hawaii, USA
 
 ### Who can Attend
-HCI researchers across academia and industry. All expertise and career levels are welcomed
+HCI researchers from academia or industry, who have encountered fraudulence while conducting research. All expertise and career levels are welcomed.
 
 ### Workshop Type 
 In-person
