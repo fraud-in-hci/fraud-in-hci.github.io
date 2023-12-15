@@ -16,12 +16,13 @@ Outcomes of this workshop include working towards better guidelines, forming a c
 ### Location
 CHI 2024 Hawaii, US
 
-### Who Could Attend
-Please [Submit paper to attend](https://fraud-in-hci.github.io/for-attendees/)
-
-### Type 
-Workshop
+### Who can Attend
+HCI researchers from academia or industry, who have encountered fraudulence while conducting research
 
 
+### Workshop Type 
+In-person
 
+
+Please [submit paper to attend](https://fraud-in-hci.github.io/for-attendees/)
 
