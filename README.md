@@ -4,10 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
-## Aswati Panicker
+### Aswati Panicker
 Aswati Panicker is a PhD student in Informatics at Indiana University Bloomington. Her research investigates how technology-mediated food interactions can support long-distance family relationships through scaffolding, experiential sharing, and support of role changes and transitions. Her work uses human-centered and participatory design approaches.
 
-## Novia Nurain
+### Novia Nurain
 Novia Nurain has recently completed her doctoral degree in Informatics at Indiana University Bloomington and will be joining as a postdoctoral researcher at the University of Michigan’s School of Information. Her research lies at the intersection of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), and Aging, with a focus on supporting technology design of socio-technical systems that promote a holistic understanding of health. Methodologically, she adopts humanistic research approaches in HCI/CSCW (e,g., surveys, interviews, photo diaries, collaborative workshops, and field deployment) to ground her investigations and translate the findings into theoretical frameworks, design toolkits, and implications for designs.
 
 ### Zaidat Ibrahim
