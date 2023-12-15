@@ -17,11 +17,11 @@ Outcomes of this workshop include working towards better guidelines, forming a c
 CHI 2024 Hawaii, US
 
 ### Who Could Attend
-Please submit a paper to attend!
+Please [Submit paper to attend](https://fraud-in-hci.github.io/for-attendees/)
 
 ### Type 
 Workshop
 
-[Submit paper to attend](https://fraud-in-hci.github.io/for-attendees/)
+
 
 
