@@ -7,7 +7,9 @@ layout: page
 ### Aswati Panicker
 ![Ash](assets/Organizers/AswatiPanicker.png){:height="200px" width="200px"}{: style="float: left"}
 
-Aswati Panicker is a PhD student in Informatics at Indiana University Bloomington. Her research investigates how technology-mediated food interactions can support long-distance family relationships through scaffolding, experiential sharing, and support of role changes and transitions. Her work uses human-centered and participatory design approaches.
+Aswati Panicker is a PhD student in Informatics at Indiana University Bloomington. Her research investigates how technology-mediated food interactions can support long-distance family relationships through scaffolding, experiential sharing, and support of role changes and transitions. Her work uses human-centered and participatory design approaches. 
+
+
 
 ### Novia Nurain
 ![Novia](assets/Organizers/NoviaNurain.png){:height="200px" width="200px"}
