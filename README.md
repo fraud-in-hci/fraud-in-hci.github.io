@@ -46,7 +46,7 @@ Chia-Fang (Christina) Chung is an Assistant Professor at the University of Calif
 
 ## Advisory Committee
 ### Kay Connelly
-![Kay](assets/Organizers/KayConelly.png){:height="200px" width="200px"}
+![Kay](assets/Organizers/KayConnelly.png){:height="200px" width="200px"}
 
 Kay Connelly is an Associate Vice President of Research and Innovation at Michigan State University. Her own research is to design, develop, and evaluate mobile and pervasive technologies for health. Much of her work focuses on vulnerable populations on the wrong side of the digital and health divides.
 
