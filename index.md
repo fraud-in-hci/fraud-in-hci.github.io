@@ -14,7 +14,7 @@ Outcomes of this workshop include working towards better guidelines, forming a c
 
 ## Key Details
 ### Location
-CHI 2024 Hawaii, US
+CHI 2024 Honolulu, Hawaii | US
 
 ### Who can Attend
 HCI researchers from academia or industry, who have encountered fraudulence while conducting research
