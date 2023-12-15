@@ -10,31 +10,31 @@ layout: page
 
 Aswati Panicker is a PhD student in Informatics at Indiana University Bloomington. Her research investigates how technology-mediated food interactions can support long-distance family relationships through scaffolding, experiential sharing, and support of role changes and transitions. Her work uses human-centered and participatory design approaches. 
 
-<div id="content">{{ content | newline_to_br }}</div>
+
 
 ### Novia Nurain
 ![Novia](assets/Organizers/NoviaNurain.png){:height="200px" width="200px"}
 
 Novia Nurain has recently completed her doctoral degree in Informatics at Indiana University Bloomington and will be joining as a postdoctoral researcher at the University of Michigan’s School of Information. Her research lies at the intersection of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), and Aging, with a focus on supporting technology design of socio-technical systems that promote a holistic understanding of health. Methodologically, she adopts humanistic research approaches in HCI/CSCW (e,g., surveys, interviews, photo diaries, collaborative workshops, and field deployment) to ground her investigations and translate the findings into theoretical frameworks, design toolkits, and implications for designs. 
-<div id="content">{{ content | newline_to_br }}</div>
+
 
 ### Zaidat Ibrahim
 ![Zaidat](assets/Organizers/ZaidatIbrahim.png){:height="200px" width="200px"}
 
 Zaidat Ibrahim is a PhD student in Informatics at Indiana University Bloomington. Her research focuses on supporting women’s health journeys of faith-based populations. She leverages qualitative and quantitative HCI research methods in her work, utilizing the results to formulate design guidelines for initial prototypes of personal informatics systems for women’s health. 
-<div id="content">{{ content | newline_to_br }}</div>
+
 
 ### Chun-Han (Ariel) Wang
 ![Aw](assets/Organizers/ArielWang.png){:height="200px" width="200px"}
 
 Chun-Han (Ariel) Wang is a PhD student in Computational Media at the University of California, Santa Cruz. Her research interests are in social media and health. Previously a designer and a researcher, she is passionate about employing human-centered design methods in everyday healthcare.
-<div id="content">{{ content | newline_to_br }}</div>
+
 
 ### Seung Wan Ha
 ![Ha](assets/Organizers/SeungWanHa.png){:height="200px" width="200px"}
 
 Seung Wan Ha is a Ph.D. Student in Computational Media at the University of California, Santa Cruz. His research explores how personal informatics can support individuals’ everyday activities and responses during life events. He utilizes qualitative Human-Computer Interaction (HCI) research methods in his work, suggesting design implications and frameworks for designing personal informatics tools. 
-<div id="content">{{ content | newline_to_br }}</div>
+
 
 ### Elizabeth Kaziunas
 ![Liz](assets/Organizers/ElizabethKaziunas.png){:height="200px" width="200px"}
