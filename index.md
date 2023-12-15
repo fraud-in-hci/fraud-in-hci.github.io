@@ -23,6 +23,8 @@ HCI researchers from academia or industry, who have encountered fraudulence whil
 ### Workshop Type 
 In-person
 
+### Contact Us 
+at [fraud-in-hci@gmail.com](mailto:fraud-in-hci@gmail.com) if you have any questions! 
 
 Please [submit paper to attend](https://fraud-in-hci.github.io/for-attendees/)
 
