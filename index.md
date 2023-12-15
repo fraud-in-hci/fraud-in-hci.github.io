@@ -12,5 +12,16 @@ This workshop explores what counts as "fraud" in the rapidly changing sociotechn
 
 Outcomes of this workshop include working towards better guidelines, forming a community of researchers to support those impacted by fraudulence, and collaboratively defining a research agenda based on workshop discussions. 
 
+## Key Details
+###Location
+CHI 2024 Hawaii, US
+
+### Who Could Attend
+Please submit a paper to attend!
+
+### Type 
+Workshop
+
 [Submit paper to attend](https://fraud-in-hci.github.io/for-attendees/)
+
 
