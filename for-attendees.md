@@ -16,7 +16,7 @@ During the workshop, attendees will engage in thinking exercises, mapping activi
 
 
 ## Important dates
-### Submission of position paper: 
+### Submission of case study: 
 February 22, 2024. 
 ### Notification of acceptance: 
 March (placeholder), 2024
