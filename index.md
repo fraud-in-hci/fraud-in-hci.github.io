@@ -3,7 +3,6 @@ layout: page
 title: ""
 ---
 
-![banner](assets/SampleBannerImageWorkshop.png)
 ![banner](assets/Rough website banner - 3.png)
 ## About the Workshop
 
