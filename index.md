@@ -12,6 +12,8 @@ This workshop explores what counts as "fraud" in the rapidly changing sociotechn
 
 Outcomes of this workshop include working towards better guidelines, forming a community of researchers to support those impacted by fraudulence, and collaboratively defining a research agenda based on workshop discussions. 
 
+[Read full workshop proposal]<object data="../assets/chiea24-44.pdf" width="1000" height="1000" type='application/pdf'/>
+
 ## Key Details
 ### Location
 Honolulu, Hawaii, USA
