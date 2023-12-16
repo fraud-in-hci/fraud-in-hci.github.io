@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![banner](assets/Rough website banner - 3.png)
+![banner](assets/Rough website banner - opt 2.png)
 ## About the Workshop
 
 New technical forms of deception–including AI deepfakes and unethical uses of ChatGTP–have gained attention in the wider research community and media. There has also been an increase in the coordinated social activities of bad actors posing as legitimate human research participants. People, for example, sign up for online HCI studies by misrepresenting their identities and experiences. 
