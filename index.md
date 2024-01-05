@@ -35,7 +35,7 @@ February 26, 2024.
 May 12, 2024
 
 ### Location
-304A, Hawaii Convention Center
+304A, Hawaii Convention Center, Honolulu, HI
 
 ### Who can attend
 HCI researchers from academia or industry, who have encountered fraudulence (eg., harmful intent, suspicious behavior, and/or identity misrepresentation) from participants or through technology while facilitating research. All expertise and career levels are welcomed.
