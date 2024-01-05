@@ -13,8 +13,6 @@ New technical forms of deception–including AI deepfakes and unethical uses of 
 
 ## Key Details
 
-{% include module.html image_path="assets/pushpin.png" title="Location" description="Honolulu, Hawaii, USA" %}
-
 ### Location
 Honolulu, Hawaii, USA
 
