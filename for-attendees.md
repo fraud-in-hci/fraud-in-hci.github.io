@@ -2,21 +2,6 @@
 layout: page
 title: For Attendees
 ---
-## Call for Participation
-This workshop explores what counts as "fraud" in the rapidly changing sociotechnical landscape of qualitative HCI research sites, and how might our community better understand (and strategically
-handle) new forms of fraudulence in human-centered design. We invite interested researchers to submit, as a case-study, a narrative of their experiences with fraudulence, the challenges, lessons learned, and questions they have moving forward. 
-
-We encourage case-study submissions that:
-- Explore varied and emerging forms of human/nonhuman fraudulence and the impacts on HCI qualitative research and/or human-centered design
-- Critically reflect on how we define and talk about "fraud" in HCI, including examining the roles of academic/industry research groups and user communities
-- Unpack fraud in relation to the diversity of qualitative research practice in HCI, including self-reflexive discussions on how we experience the risks and harms of fraud differently both as researchers and people
-- Detail experiences with fraud from a particular methodological/theoretical perspective, including but not limited to: ethnography, feminist HCI, participatory design, surveys, online workshops, etc.
-- Reflect on fraud from the researcher’s perspective, covering personal accounts of challenges with fraudulence, such as the impact on well-being, the need to overcome bias, the risk of misrepresenting marginalized communities, etc.
-
-Acceptances will be based on the quality of the submission and the diversity of experiences. At least one author of each accepted submission must attend the workshop and all participants must register for both the workshop and for at least one day of the conference. During the workshop, attendees will engage in thinking exercises, mapping activities, in-depth discussions, and interactive panels to share and discuss questions, concerns, and proposed strategies. 
-
-The outcomes of the workshop include (1) a collaboratively defined new research agenda, published as scholarly and public-accessible articles, and (2) a live and interactive casebook of fraudulent encounters that serves as collective practical guides for HCI researchers.
-
 ## Submission guidelines
 We encourage submissions that share or unpack researcher's personal experiences with fraudulence, explore potential strategies to combat fraudulence, and reflect critically on
 the efficacies and shortcomings of such strategies. Submissions should use the the ACM single-column Word or LaTeX Template, and not exceed 10 pages (including references). There is no minimum page limit but we ask that case study submissions include sufficient context on the research study, how fraudulence was observed, and how it was addressed (if applicable). To make a submission, please use this google form. Any sensitive information may be anonymized as the researcher sees fit.
