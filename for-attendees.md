@@ -14,5 +14,4 @@ Author list and affiliations are not anonymized for case study submission and th
 February 26, 2024. 
 ### Notification of acceptance: 
 March 20, 2024
-### Workshop date: 
-May 12, 2024
+
