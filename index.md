@@ -10,6 +10,7 @@ New technical forms of deception–including AI deepfakes and unethical uses of 
 
 [Read full workshop proposal](https://fraud-in-hci.github.io/assets/chiea24-44.pdf)
 
+
 ## Key Details
 ### Location
 Honolulu, Hawaii, USA
