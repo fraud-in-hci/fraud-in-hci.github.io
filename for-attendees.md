@@ -3,9 +3,7 @@ layout: page
 title: For Attendees
 ---
 ## Call for Participation
-We invite interested researchers to submit, in a case-study format, a narrative of their experiences with fraudulence, the challenges, lessons learned, and questions they have moving forward. Templates can be found on the [workshop website]. Submissions should not exceed 1,000 words and can be emailed to fraud-in-hci@gmail.com. 
-Acceptances will be based on the quality of the submission and the diversity of experiences. 
-At least one author of each accepted submission must attend the workshop and all participants must register for both the workshop and for at least one day of the conference. We encourage case-study submissions that: 
+We invite interested researchers to submit, as a case-study, a narrative of their experiences with fraudulence, the challenges, lessons learned, and questions they have moving forward. Please use the ACM single-column Word or single-column LaTeX Submission Template. Submissions should not exceed 8 pages and can be upload via this google form. Acceptances will be based on the quality of the submission and the diversity of experiences. At least one author of each accepted submission must attend the workshop and all participants must register for both the workshop and for at least one day of the conference. We encourage case-study submissions that: 
 - Explore varied and emerging forms of human/nonhuman fraudulence 
 - Critically reflect how we define and talk about "fraud" in HCI 
 - Unpack fraud in relation to the diversity of qualitative research practice in HCI 
