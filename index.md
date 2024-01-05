@@ -11,8 +11,7 @@ New technical forms of deception–including AI deepfakes and unethical uses of 
 [Read full workshop proposal](https://fraud-in-hci.github.io/assets/chiea24-44.pdf)
 
 ## Call for Participation
-This workshop explores what counts as "fraud" in the rapidly changing sociotechnical landscape of qualitative HCI research sites, and how might our community better understand (and strategically
-handle) new forms of fraudulence in human-centered design. We invite interested researchers to submit, as a case-study, a narrative of their experiences with fraudulence, the challenges, lessons learned, and questions they have moving forward. 
+We invite interested researchers to submit, as a case-study, a narrative of their experiences with fraudulence, the challenges, lessons learned, and questions they have moving forward. 
 
 We encourage case-study submissions that:
 - Explore varied and emerging forms of human/nonhuman fraudulence and the impacts on HCI qualitative research and/or human-centered design
