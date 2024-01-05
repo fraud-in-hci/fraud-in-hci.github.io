@@ -25,6 +25,8 @@ Acceptances will be based on the quality of the submission and the diversity of 
 
 The outcomes of the workshop include (1) a collaboratively defined new research agenda, published as scholarly and public-accessible articles, and (2) a live and interactive casebook of fraudulent encounters that serves as collective practical guides for HCI researchers.
 
+[Make a case study submission](https://forms.gle/u2egyAo4wjZMNS6QA)
+
 ## Key Details
 
 ### Location
@@ -38,6 +40,4 @@ In-person
 
 ### Contact Us 
 at [fraud-in-hci@gmail.com](mailto:fraud-in-hci@gmail.com) if you have any questions! 
-
-Please [submit paper to attend](https://fraud-in-hci.github.io/for-attendees/)
 
