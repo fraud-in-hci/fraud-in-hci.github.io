@@ -13,7 +13,9 @@ We encourage case-study submissions that:
 - Detail experiences with fraud from a particular methodological/theoretical perspective, including but not limited to: ethnography, feminist HCI, participatory design, surveys, online workshops, etc.
 - Reflect on fraud from the researcher’s perspective, covering personal accounts of challenges with fraudulence, such as the impact on well-being, the need to overcome bias, the risk of misrepresenting marginalized communities, etc.
 
-Acceptances will be based on the quality of the submission and the diversity of experiences. At least one author of each accepted submission must attend the workshop and all participants must register for both the workshop and for at least one day of the conference. During the workshop, attendees will engage in thinking exercises, mapping activities, in-depth discussions, and interactive panels to share and discuss questions, concerns, and proposed strategies. The outcomes of the workshop include (1) a collaboratively defined new research agenda, published as scholarly and public-accessible articles, and (2) a live and interactive casebook of fraudulent encounters that serves as collective practical guides for HCI researchers.
+Acceptances will be based on the quality of the submission and the diversity of experiences. At least one author of each accepted submission must attend the workshop and all participants must register for both the workshop and for at least one day of the conference. During the workshop, attendees will engage in thinking exercises, mapping activities, in-depth discussions, and interactive panels to share and discuss questions, concerns, and proposed strategies. 
+
+The outcomes of the workshop include (1) a collaboratively defined new research agenda, published as scholarly and public-accessible articles, and (2) a live and interactive casebook of fraudulent encounters that serves as collective practical guides for HCI researchers.
 
 ## Submission guidelines
 We encourage submissions that share or unpack researcher's personal experiences with fraudulence, explore potential strategies to combat fraudulence, and reflect critically on
