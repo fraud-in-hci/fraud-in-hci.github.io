@@ -39,7 +39,7 @@ May 12, 2024 (Sunday)
 HCI researchers from academia or industry, who have encountered fraudulence (eg., harmful intent, suspicious behavior, and/or identity misrepresentation) from participants or through technology while facilitating research. All expertise and career levels are welcomed.
 
 ### 📌 Case study submission dates: 
-Researchers interested in participating can submit case studies until February 26, 2024 (Monday). Accepted submissions will be notified on March 20, 2024 Wednesday).
+Researchers interested in participating can submit case studies until February 26, 2024 (Monday). Accepted submissions will be notified on March 20, 2024 (Wednesday).
 
 ### 📌 Location:
 The workshop will be held in-person in room 304A of the Hawaii Convention Center (Honolulu, HI, US).
