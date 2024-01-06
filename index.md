@@ -44,5 +44,5 @@ Researchers interested in participating can submit case studies until February 2
 ### 📌 Contact us 
 For any questions, clarifications, or concerns, please reach out to the organizers at [fraud-in-hci@gmail.com](mailto:fraud-in-hci@gmail.com).
 
-
-<br><br>{% include small_and_grey_text.html text="Vector illustrations on banner image from Freepik.com" %}
+<br><br>
+{% include small_and_grey_text.html text="Vector illustrations on banner image from Freepik.com" %}
