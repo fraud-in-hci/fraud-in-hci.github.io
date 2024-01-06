@@ -61,5 +61,3 @@ Kay Connelly is an Associate Vice President of Research and Innovation at Michig
 ![Katie](assets/Organizers/KatieSiek.png){:height="200px" width="200px"}
 
 Katie Siek is a Professor of Informatics at Indiana University who investigates how to empower people outside of clinical environments to proactively manage their health. She is an elected member of the Computing Research Association Board and serves on the Council of the Computing Community Consortium.
-
-Workshop at CHI 2024
