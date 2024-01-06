@@ -41,8 +41,6 @@ HCI researchers from academia or industry, who have encountered fraudulence (eg.
 ### 📌 Case study submission dates: 
 Researchers interested in participating can submit case studies until February 26, 2024 (Monday). Accepted submissions will be notified on March 20, 2024 (Wednesday).
 
-{% include content_separator.html %}
-
-## Contact us 
-For any questions, clarifications or concerns, please reach out to the organizers at [fraud-in-hci@gmail.com](mailto:fraud-in-hci@gmail.com).
+### 📌 Contact us 
+For any questions, clarifications, or concerns, please reach out to the organizers at [fraud-in-hci@gmail.com](mailto:fraud-in-hci@gmail.com).
 
