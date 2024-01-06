@@ -39,7 +39,7 @@ The workshop will be held on May 12, 2024 (Sunday) at CHI. This is an in-person 
 HCI researchers from academia or industry, who have encountered fraudulence (eg., harmful intent, suspicious behavior, and/or identity misrepresentation) from participants or through technology while facilitating research. All expertise and career levels are welcomed.
 
 ### 📌 Case study submission dates: 
-Researchers interested in participating can submit case studies until February 26, 2024 (Monday). Accepted submissions will be notified on March 20, 2024 (Wednesday). For guidance on formatting, please check out the ["For Attendees"](https://fraud-in-hci.github.io/for-attendees/) page.
+Researchers interested in participating can submit case studies until February 26, 2024 (Monday). Accepted submissions will be notified on March 20, 2024 (Wednesday). 
 
 ### 📌 Contact us 
 For any questions, clarifications, or concerns, please reach out to the organizers at [fraud-in-hci@gmail.com](mailto:fraud-in-hci@gmail.com).
