@@ -26,6 +26,8 @@ The outcomes of the workshop include (1) a collaboratively defined new research 
 
 [Make a case study submission](https://forms.gle/u2egyAo4wjZMNS6QA)
 
+{% include submit_button.html %}
+
 ## Key Details
 
 ### 📌 Case study submission deadline: 
