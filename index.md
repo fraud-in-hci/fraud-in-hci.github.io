@@ -10,6 +10,8 @@ New technical forms of deception–including AI deepfakes and unethical uses of 
 
 {% include read_button.html %}
 
+{% include content_separator.html %}
+
 ## Call for Participation
 We invite interested researchers to submit, as a case-study, a narrative of their experiences with fraudulence, the challenges, lessons learned, and questions they have moving forward. 
 
