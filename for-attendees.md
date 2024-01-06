@@ -10,8 +10,8 @@ the efficacies and shortcomings of such strategies. Submissions should use the t
 Author list and affiliations are not anonymized for case study submission and the review process. However, post completion of the workshop, we intend to make available on our workshop website all submissions as a collective guide of fraudulent encounters. If researchers wish to participate in this step but would like their name and institution anonymized, please indicate so on the Google form as a note.
 
 ## Important dates
-### Submission of case study: 
+### 📌 Submission of case study: 
 February 26, 2024. 
-### Notification of acceptance: 
+### 📌 Notification of acceptance: 
 March 20, 2024
 
