@@ -10,7 +10,7 @@ Author list and affiliations are not anonymized for case study submission and th
 
 ## Important dates
 ### 📌 Submission of case study: 
-February 26, 2024
+March 04, 2024
 ### 📌 Notification of acceptance: 
 March 20, 2024
 
