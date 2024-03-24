@@ -30,6 +30,14 @@ The outcomes of the workshop include (1) a collaboratively defined new research 
 
 {% include content_separator.html %}
 
+## Late Submissions
+
+{% include yellow_content.html %}
+
+{% include submit_button.html %}
+
+{% include content_separator.html %}
+
 ## Key Details
 
 ### 📌 Workshop date and location: 
