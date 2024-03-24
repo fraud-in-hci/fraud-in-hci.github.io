@@ -34,8 +34,6 @@ The outcomes of the workshop include (1) a collaboratively defined new research 
 
 {% include yellow_content.html %}
 
-{% include submit_button.html %}
-
 {% include content_separator.html %}
 
 ## Key Details
