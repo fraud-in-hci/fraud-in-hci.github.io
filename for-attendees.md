@@ -2,7 +2,7 @@
 layout: page
 title: For Attendees
 ---
-## Submission guidelines
+## Submissions: guidelines and updates
 Submissions should use the the [ACM single-column](https://chi2024.acm.org/submission-guides/chi-publication-formats/) Word or LaTeX template, and not exceed 4 pages (excluding references and figures). There is no minimum page requirement, but we ask that case study submissions include sufficient context on the research study, how fraudulence was observed, and how it was addressed (if applicable) to make the experience understandable to a broad audience. Sensitive information regarding the research study or participant may be anonymized as the researcher sees fit. To submit a case study, please [use this google form](https://forms.gle/u2egyAo4wjZMNS6QA). Additionally, note that the Google Form requires the contact author to be signed-in as it is collecting emails to map with the submission. 
 
 <span style="background-color: yellow;">**UPDATE 03/07/24:**</span> Submissions can be short or lightweight - so even a couple of paragraphs or a 1-pager on your experiences, strategies, or questions are welcomed!
