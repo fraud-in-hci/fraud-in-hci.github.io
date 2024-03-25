@@ -3,8 +3,6 @@ layout: page
 title: Schedule
 ---
 
-This is a day-long workshop. We will update the schedule here once we have it finalized! 
-
-For a tentative agenda, please refer to [our workshop proposal](https://fraud-in-hci.github.io/assets/chiea24-44.pdf)
+This is a day-long workshop. Below is a tentative agenda, but please check again closer to the workshop for changes/updates!
 
 {% include schedule.html %}
