@@ -1,43 +1,43 @@
 <div class="custom-table">
   <div class="row header">
-    <div class="cell">Time</div>
-    <div class="cell">Duration</div>
-    <div class="cell">Activity</div>
+    <div class="cell time">Time</div>
+    <div class="cell duration">Duration</div>
+    <div class="cell activity">Activity</div>
   </div>
   {% for row in (1..12) %}
     <div class="row">
       {% if row == 1 %}
-        <div class="cell">9:00- 9:10 am</div>
-        <div class="cell">10 minutes</div>
-        <div class="cell"><strong>Introductions: </strong>Organizers to introduce themselves as well as communicate workshop goals, agenda, and expectations</div>
+        <div class="cell time">9:00- 9:10 am</div>
+        <div class="cell duration">10 minutes</div>
+        <div class="cell activity"><strong>Introductions: </strong>Organizers to introduce themselves as well as communicate workshop goals, agenda, and expectations</div>
       {% elsif row == 2 %}
-        <div class="cell">9:10- 9:30 am</div>
-        <div class="cell">20 minutes</div>
-        <div class="cell"><strong>Icebreaker Activity: </strong>Facilitate attendee-attendee introductions and interactions</div>
+        <div class="cell time">9:10- 9:30 am</div>
+        <div class="cell duration">20 minutes</div>
+        <div class="cell activity"><strong>Icebreaker Activity: </strong>Facilitate attendee-attendee introductions and interactions</div>
       {% elsif row == 3 %}
-        <div class="cell">9:30- 10:30 am</div>
-        <div class="cell">60 minutes</div>
-        <div class="cell"><strong>Case Study Presentations: </strong>Sharing experiences of fraudulent encounters, strategies, and open questions</div>
+        <div class="cell time">9:30- 10:30 am</div>
+        <div class="cell duration">60 minutes</div>
+        <div class="cell activity"><strong>Case Study Presentations: </strong>Sharing experiences of fraudulent encounters, strategies, and open questions</div>
       {% elsif row == 4 %}
-        <div class="cell">10:30- 11:00 am</div>
-        <div class="cell">30 minutes</div>
-        <div class="cell"><strong>BREAK</strong></div>
+        <div class="cell time">10:30- 11:00 am</div>
+        <div class="cell duration">30 minutes</div>
+        <div class="cell activity"><strong>BREAK</strong></div>
       {% elsif row == 5 %}
-        <div class="cell">11:00- 12:00 pm</div>
-        <div class="cell">60 minutes</div>
-        <div class="cell"><strong>Ask the Experts Panel (Institutional Ethics Review and Research Support Divisions): </strong>Discussion with IRB office, Research Dean Office,or other institutional research support divisions on current and future plans on research and researcher support</div>
+        <div class="cell time">11:00- 12:00 pm</div>
+        <div class="cell duration">60 minutes</div>
+        <div class="cell activity"><strong>Ask the Experts Panel (Institutional Ethics Review and Research Support Divisions): </strong>Discussion with IRB office, Research Dean Office,or other institutional research support divisions on current and future plans on research and researcher support</div>
       {% elsif row == 6 %}
-        <div class="cell">12:00- 1:30 pm</div>
-        <div class="cell">90 minutes</div>
-        <div class="cell"><strong>LUNCH BREAK</strong></div>
+        <div class="cell time">12:00- 1:30 pm</div>
+        <div class="cell duration">90 minutes</div>
+        <div class="cell activity"><strong>LUNCH BREAK</strong></div>
       {% elsif row == 7 %}
-        <div class="cell">1:30- 2:30 pm</div>
-        <div class="cell">60 minutes</div>
-        <div class="cell"><strong>Ecosystem Mapping Activity: Responsibilities, Support, and Strategies </strong>Sharing and brainstorming strategies across the ecosystem of HCI research. Identify the actors (e.g., individuals, mentors, institutions, professional communities), their levels of involvement and responsibilities, and strategies within and across these actors.</div>
+        <div class="cell time">1:30- 2:30 pm</div>
+        <div class="cell duration">60 minutes</div>
+        <div class="cell activity"><strong>Ecosystem Mapping Activity: Responsibilities, Support, and Strategies </strong>Sharing and brainstorming strategies across the ecosystem of HCI research. Identify the actors (e.g., individuals, mentors, institutions, professional communities), their levels of involvement and responsibilities, and strategies within and across these actors.</div>
       {% elsif row == 8 %}
-        <div class="cell">2:30- 3:30 pm</div>
-        <div class="cell">60 minutes</div>
-        <div class="cell"><strong>Thinking Exercise:"Put yourself in the Fraudulent Participant’s shoes" </strong>Discussion in small groups on themes such as fraudulence identification, new technologies that enable fraudulence, participant-researcher interaction strategies, and bias recognition</div>
+        <div class="cell time">2:30- 3:30 pm</div>
+        <div class="cell duration">60 minutes</div>
+        <div class="cell activity"><strong>Thinking Exercise:"Put yourself in the Fraudulent Participant’s shoes" </strong>Discussion in small groups on themes such as fraudulence identification, new technologies that enable fraudulence, participant-researcher interaction strategies, and bias recognition</div>
       {% endif %}
     </div>
   {% endfor %}
@@ -61,8 +61,15 @@
   }
 
   .cell {
-    flex: 1;
     padding: 8px;
+  }
+
+  .cell.time, .cell.duration {
+    width: 100px; /* Adjust width of time and duration columns */
+  }
+
+  .cell.activity {
+    flex: 1; /* Allow activity column to take remaining space */
   }
 
   .cell:not(:last-child) {
