@@ -6,46 +6,41 @@
   </div>
   {% for row in (1..12) %}
     <div class="row">
-      <div class="cell">9:00- 9:10 am</div>
-      <div class="cell">10 minutes</div>
-      <div class="cell"><strong>Introductions: </strong>Organizers to introduce themselves as well as communicate workshop goals, agenda, and expectations</div>
+      {% if row == 1 %}
+        <div class="cell">9:00- 9:10 am</div>
+        <div class="cell">10 minutes</div>
+        <div class="cell"><strong>Introductions: </strong>Organizers to introduce themselves as well as communicate workshop goals, agenda, and expectations</div>
+      {% elsif row == 2 %}
+        <div class="cell">9:10- 9:30 am</div>
+        <div class="cell">20 minutes</div>
+        <div class="cell"><strong>Icebreaker Activity: </strong>Facilitate attendee-attendee introductions and interactions</div>
+      {% elsif row == 3 %}
+        <div class="cell">9:30- 10:30 am</div>
+        <div class="cell">60 minutes</div>
+        <div class="cell"><strong>Case Study Presentations: </strong>Sharing experiences of fraudulent encounters, strategies, and open questions</div>
+      {% elsif row == 4 %}
+        <div class="cell">10:30- 11:00 am</div>
+        <div class="cell">30 minutes</div>
+        <div class="cell"><strong>BREAK</strong></div>
+      {% elsif row == 5 %}
+        <div class="cell">11:00- 12:00 pm</div>
+        <div class="cell">60 minutes</div>
+        <div class="cell"><strong>Ask the Experts Panel (Institutional Ethics Review and Research Support Divisions): </strong>Discussion with IRB office, Research Dean Office,or other institutional research support divisions on current and future plans on research and researcher support</div>
+      {% elsif row == 6 %}
+        <div class="cell">12:00- 1:30 pm</div>
+        <div class="cell">90 minutes</div>
+        <div class="cell"><strong>LUNCH BREAK</strong></div>
+      {% elsif row == 7 %}
+        <div class="cell">1:30- 2:30 pm</div>
+        <div class="cell">60 minutes</div>
+        <div class="cell"><strong>Ecosystem Mapping Activity: Responsibilities, Support, and Strategies </strong>Sharing and brainstorming strategies across the ecosystem of HCI research. Identify the actors (e.g., individuals, mentors, institutions, professional communities), their levels of involvement and responsibilities, and strategies within and across these actors.</div>
+      {% elsif row == 8 %}
+        <div class="cell">2:30- 3:30 pm</div>
+        <div class="cell">60 minutes</div>
+        <div class="cell"><strong>Thinking Exercise:"Put yourself in the Fraudulent Participant’s shoes" </strong>Discussion in small groups on themes such as fraudulence identification, new technologies that enable fraudulence, participant-researcher interaction strategies, and bias recognition</div>
+      {% endif %}
     </div>
-    <div class="row">
-      <div class="cell">9:10- 9:30 am</div>
-      <div class="cell">20 minutes</div>
-      <div class="cell"><strong>Icebreaker Activity: </strong>Facilitate attendee-attendee introductions and interactions</div>
-    </div>
-    <div class="row">
-      <div class="cell">9:30- 10:30 am</div>
-      <div class="cell">60 minutes</div>
-      <div class="cell"><strong>Case Study Presentations: </strong>Sharing experiences of fraudulent encounters, strategies, and open questions</div>
-    </div>
-    <div class="row">
-      <div class="cell">10:30- 11:00 am</div>
-      <div class="cell">30 minutes</div>
-      <div class="cell"><strong>BREAK</strong></div>
-    </div>
-    <div class="row">
-      <div class="cell">11:00- 12:00 pm</div>
-      <div class="cell">60 minutes</div>
-      <div class="cell"><strong>Ask the Experts Panel (Institutional Ethics Review and Research Support Divisions): </strong>Discussion with IRB office, Research Dean Office,or other institutional research support divisions on current and future plans on research and researcher support</div>
-    </div>
- <div class="row">
-      <div class="cell">12:00- 1:30 pm</div>
-      <div class="cell">90 minutes</div>
-      <div class="cell"><strong>LUNCH BREAK</strong></div>
-    </div>
-   <div class="row">
-      <div class="cell">1:30- 2:30 pm</div>
-      <div class="cell">60 minutes</div>
-      <div class="cell"><strong>Ecosystem Mapping Activity: Responsibilities, Support, and Strategies </strong>Sharing and brainstorming strategies across the ecosystem of HCI research. Identify the actors (e.g., individuals, mentors, institutions, professional communities), their levels of involvement and responsibilities, and strategies within and across these actors.</div>
-    </div>
-     <div class="row">
-      <div class="cell">2:30- 3:30 pm</div>
-      <div class="cell">60 minutes</div>
-      <div class="cell"><strong>Thinking Exercise:"Put yourself in the Fraudulent Participant’s shoes" </strong>Discussion in small groups on themes such as fraudulence identification, new technologies that enable fraudulence, participant-researcher interaction strategies, and bias recognition</div>
-    </div>
-
+  {% endfor %}
 </div>
 
 <style>
